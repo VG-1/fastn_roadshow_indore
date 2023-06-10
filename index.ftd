@@ -1,4 +1,4 @@
-
+--import
 --import: ayushsoni1010.github.io/ui-packages/header as navbar
 --import: ayushsoni1010.github.io/ui-packages/base-layout as layout
 --import: ayushsoni1010.github.io/ui-packages/social-buttons as social
@@ -8,9 +8,6 @@
 --import: ayushsoni1010.github.io/ui-packages/button as button 
 
 --layout.base.layout :
-
-
-
 
 -- navbar.header:
 logo: https://pbs.twimg.com/media/FyQMBjfWAAEKiGB?format=jpg&name=large
