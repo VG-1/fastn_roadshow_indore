@@ -7,7 +7,7 @@
 --import: ayushsoni1010.github.io/ui-packages/hero-toast as github-toast
 --import: ayushsoni1010.github.io/ui-packages/button as button 
 
---layout.base.layout :
+--layout.base-layout :
 
 -- navbar.header:
 logo: https://pbs.twimg.com/media/FyQMBjfWAAEKiGB?format=jpg&name=large
